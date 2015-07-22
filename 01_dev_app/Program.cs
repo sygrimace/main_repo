@@ -10,7 +10,7 @@ namespace _01_dev_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is version 2.3"); 
+            Console.WriteLine("This is version 2.4"); 
             Console.ReadKey();
         }
     }
