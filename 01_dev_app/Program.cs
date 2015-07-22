@@ -10,7 +10,7 @@ namespace _01_dev_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sorry, this application do nothing :)"); //v1.4
+            Console.WriteLine("Sorry, this application do nothing :)"); //v1.5
             Console.ReadKey();
         }
     }
